@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Echo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Date_title">Date Picker</string>
+    <string name="confirmDate">Confirm Date</string>
+    <string name="Data_Title">Database</string>
+    <string name="postMenu">post</string>
+    <string name="postMenuItem">post</string>
+    <string name="empty">""</string>
+    <string name="endYear">2100</string>
+    <string name="startYear">1900</string>
+    <string name="set">set</string>
+    <string name="removePhoto">remove photo</string>
+    <string name="addPhoto">add photo</string>
+    <string name="myPhoto">my photo</string>
+
+</resources>
